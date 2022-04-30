@@ -20,6 +20,7 @@
     
     - [SecurityOnion](https://github.com/Security-Onion-Solutions/securityonion)
     - [ElkStack](https://www.elastic.co/start)
+    - [Wazzuh] (https://wazuh.com/)
 - **EDR**
     
     - [WAZUH](https://wazuh.com/)
